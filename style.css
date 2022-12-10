@@ -1,7 +1,12 @@
 .body {
-	background-color: antiquewhite;
+  background-color: antiquewhite;
 }
 
 h1 {
-	color: blue;
+  color: blue;
+}
+
+h2 {
+  font-weight: 700;
+  color: red;
 }
